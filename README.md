@@ -39,14 +39,14 @@ Who has more followers? Type 'A' or 'B': b
 
 You're right! Current score: 1
 
+
 📁 Project Structure
 
 
-.
-├── main.py             # Main game logic
-├── art.py              # Contains ASCII art (logo and vs)
-├── game_data.py        # Contains the celebrity dataset
-├── README.md           # You're here!
+* main.py             # Main game logic
+* art.py              # Contains ASCII art (logo and vs)
+* game_data.py        # Contains the celebrity dataset
+* README.md           # You're here!
 
 
 📦 Requirements
